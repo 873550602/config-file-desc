@@ -1,0 +1,20 @@
+# EditorConfig is awesome:
+# https://EditorConfig.org
+# top-most EditorConfig file
+root = true
+# 路径通配符
+[*]
+# 换行符的表示方式 lf->\n cr->\r crlf->\r\n
+end_of_line = lf
+# 文件保存时以换行分结尾
+insert_final_newline = true
+# 字符编码
+charset = utf-8
+# 缩进风格
+indent_style = space
+# 缩进宽度，当indent_style = space时生效
+indent_size = 2
+# 缩进宽度，当indent_style = tab时生效
+# tab_width = 2
+# 保存文件时自动删除换行符之前的所有空白字符
+trim_trailing_whitespace = true
